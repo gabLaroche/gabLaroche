@@ -1,3 +1,1 @@
-# gabLaroche
-
 Hello Github! 👋
