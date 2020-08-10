@@ -27,7 +27,7 @@ I'm a Front end developer based in Québec City, Canada!
 
 
 ### My Skills  
-<div align="center">  
+<div align="left">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -39,7 +39,7 @@ I'm a Front end developer based in Québec City, Canada!
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />  
 </div>  
 
-<br/>  
+<br/><br/>
 
 ![Github Readme Stats](https://github-readme-stats.vercel.app/api?username=gabLaroche&show_icons=true&count_private=true)  
 
